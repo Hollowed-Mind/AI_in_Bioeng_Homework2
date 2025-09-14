@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
+# Colab/Drive
+.shortcut-targets-by-id/
+.tmp.drivedownload/
+# Data scratch
+data/tmp/
